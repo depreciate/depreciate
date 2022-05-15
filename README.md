@@ -1,7 +1,7 @@
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
+![C#](https://img.shields.io/badge/-CSharp-000?&logo=C#)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=FFBF00)
