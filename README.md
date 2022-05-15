@@ -4,6 +4,8 @@
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
+![Go](https://img.shields.io/badge/-GoLang-000?&logo=Go)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=FFBF00)
 
 
